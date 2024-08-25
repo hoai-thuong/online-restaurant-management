@@ -1,4 +1,4 @@
-![Screenshot (262)](https://user-images.githubusercontent.com/48250220/191907727-6f3155f9-53c1-4f73-a639-15a3df620bb4.png)
+<!-- ![Screenshot (262)](https://user-images.githubusercontent.com/48250220/191907727-6f3155f9-53c1-4f73-a639-15a3df620bb4.png)
 ![Screenshot (263)](https://user-images.githubusercontent.com/48250220/191907740-b59b4c10-6550-4b9e-bc35-483c633667f6.png)
 ![Screenshot (264)](https://user-images.githubusercontent.com/48250220/191907761-222d06bb-eca3-42cb-939a-c6da2cb6996e.png)
 ![Screenshot (265)](https://user-images.githubusercontent.com/48250220/191907811-3e036e5e-b895-4e58-83b6-795c59cad218.png)
@@ -17,4 +17,4 @@
 ![Screenshot (275)](https://user-images.githubusercontent.com/48250220/191908111-5aebdf44-88e3-4d28-bda0-3d573afbfe1e.png)
 ![Screenshot (276)](https://user-images.githubusercontent.com/48250220/191908135-0130d841-0d83-4d94-ae5f-a3f01a5b7257.png)
 ![Screenshot (277)](https://user-images.githubusercontent.com/48250220/191908145-31df506c-13e8-427f-8787-5162100229b1.png)
-# online-restaurant-management
+# online-restaurant-management -->
